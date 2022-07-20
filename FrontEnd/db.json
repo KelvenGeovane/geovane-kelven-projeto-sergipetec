@@ -1,0 +1,48 @@
+{
+  "contribuintes": [
+    {
+      "nome": "geovane",
+      "email": "geovane@gmail.com",
+      "cpf": "33333333322",
+      "telefone": "3332255511",
+      "celular": "33225511",
+      "enderecos": {
+        "rua": "mangabinha",
+        "numero": "205",
+        "bairro": "sao conrado",
+        "cidade": "Aracaju",
+        "cep": "49043346",
+        "estado": "Sergipe",
+        "pais": "Brasil"
+      },
+      "id": 1
+    },
+    {
+      "nome": "Maria",
+      "email": "maria@gmail.com",
+      "cpf": "55588866672",
+      "telefone": "666666665",
+      "celular": "666665547",
+      "enderecos": {
+        "rua": "getulio vargas",
+        "numero": "336",
+        "bairro": "siqueira campos",
+        "cidade": "Aracaju",
+        "cep": "4900000",
+        "estado": "Sergipe",
+        "pais": "Brasil"
+      },
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
